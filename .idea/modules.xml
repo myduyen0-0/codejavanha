@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTTRENLOP/BAI1/BAI1.iml" filepath="$PROJECT_DIR$/BTTRENLOP/BAI1/BAI1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTRENLOP/BAI2/BAI2.iml" filepath="$PROJECT_DIR$/BTTRENLOP/BAI2/BAI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTRENLOP/BTTRENLOP.iml" filepath="$PROJECT_DIR$/BTTRENLOP/BTTRENLOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVENHA/BTVENHA.iml" filepath="$PROJECT_DIR$/BTVENHA/BTVENHA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVNBUOI6.iml" filepath="$PROJECT_DIR$/BTVNBUOI6.iml" />
+    </modules>
+  </component>
+</project>
